@@ -1,2 +1,22 @@
-# my-Chinese-Medicine-Learning-Progress
-中醫學習進度記錄 my Chinese Medicine Learning Progress
+# 中醫學習進度記錄
+
+中醫學習進度記錄 
+my Chinese Medicine Learning Progress
+
+**用本庫記錄中醫學習歷程**
+
+## 學習内容或者説是目標
+
+### 倪海夏人紀
+
+1. 倪海厦人纪-針灸
+2. 倪海厦人纪-神農本草經
+3. 倪海厦人纪-黃帝内經
+
+### 光明中醫
+
+
+
+1. 中醫入門
+2. 中醫概論
+3. 
